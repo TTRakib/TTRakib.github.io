@@ -1,3 +1,97 @@
 body {
     font-family: 'Open Sans', sans-serif;
 }
+
+.banner-container{
+    background-color: #dad3e6c2;
+}
+
+.banner-column{
+    background-color: #a270ec;
+}
+
+.text-bolder {
+    font-weight: bolder;
+}
+
+.navbar-container {
+    background-color: rgb(90, 241, 204);
+}
+
+.navbar-text{
+    font-weight: bolder;
+}
+
+.about-container{
+    background-color: beige;
+}
+
+
+.education-container{
+    background-color: #EEEDEF;
+}
+
+.edu-color {
+    color: #37C2CE;
+    font-weight: bolder;
+}
+
+.circle{
+    background-color: #37C2CE;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.project-container {
+    background-color: rgb(107, 177, 243);
+    
+}
+
+.project-text {
+    color: white;
+    font-weight: bolder;
+}
+
+.portfololio-text{
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+}
+
+.form-container{
+    background-color: rgb(117, 34, 124);
+}
+
+.form-margin{
+    margin-right: 1px;
+}
+
+.inner-form{
+    background-color: #be5cc7;
+}
+
+
+.footer-container{
+    background-color: rgb(73, 205, 238);
+}
+
+.footer-circle {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(26, 125, 238);
+}
+
+.footer-circle:hover {
+    
+    background-color: #3cacec;
+    color: black;
+
+}
+
+
+
